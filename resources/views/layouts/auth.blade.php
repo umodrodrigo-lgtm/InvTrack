@@ -27,7 +27,7 @@
         <div class="container container-tight py-4">
             <div class="text-center mb-4">
                 <a href="{{ url('/') }}" class="navbar-brand navbar-brand-autodark">
-                    <img src="{{ asset('static/logo.svg') }}" width="110" height="32" alt="Tabler" class="navbar-brand-image">
+                    <img src="{{ asset('static/logo.svg') }}" width="110" height="32" alt="InvTrack" class="navbar-brand-image">
                 </a>
             </div>
 
